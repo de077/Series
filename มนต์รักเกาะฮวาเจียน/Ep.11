@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="���§�鹩�Ѻ",LANGUAGE="und",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://ok-nah.com/files/3ee2044c02899a2b424073e315bb322e/audio/audio_0"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="เสียงต้นฉบับ",LANGUAGE="und",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://ok-nah.com/files/3ee2044c02899a2b424073e315bb322e/audio/audio_0"
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
 https://ok-nah.com/files/3ee2044c02899a2b424073e315bb322e/1080/index
