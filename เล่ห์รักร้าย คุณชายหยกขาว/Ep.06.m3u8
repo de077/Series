@@ -1,4 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-STREAM-INF:BANDWIDTH=2800000,RESOLUTION=1920x1080
-https://raw.githubusercontent.com/de077/Series/refs/heads/main/เล่ห์รักร้าย คุณชายหยกขาว/06
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ภาษาไทย",LANGUAGE="tha",AUTOSELECT=YES,DEFAULT=YES,CHANNELS="2",URI="https://ok-nah.com/files/24800fc8d3d438cd2164e5df4bde59e7/audio/audio_0"
+#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=3000000,RESOLUTION=1920x1080,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
+https://ok-nah.com/files/24800fc8d3d438cd2164e5df4bde59e7/1080/index
