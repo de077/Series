@@ -3,6 +3,8 @@
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-STREAM-INF:BANDWIDTH=4111000,RESOLUTION=1920x800
 https://1a-1791.com/video/fww1/ec/s8/2/w/t/Z/U/wtZUz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1425049600-1425077654
+#EXT-X-STREAM-INF:BANDWIDTH=2136000,RESOLUTION=1280x534
+https://1a-1791.com/video/fww1/ec/s8/2/w/t/Z/U/wtZUz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=740734976-740762719
 #EXT-X-STREAM-INF:BANDWIDTH=1053000,RESOLUTION=854x356
 https://1a-1791.com/video/fww1/ec/s8/2/w/t/Z/U/wtZUz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=365192704-365220357
 #EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x268
