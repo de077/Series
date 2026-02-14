@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=222389760-222416031"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://1a-1791.com/video/fwe2/2d/s8/2/6/w/H/Z/6wHZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=340968960-340995031"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4100000,RESOLUTION=1920x804,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1349731840-1349758465
+#EXT-X-STREAM-INF:BANDWIDTH=2137000,RESOLUTION=1280x536,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=703664128-703690585
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=854x358,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=345956352-345982722
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=222389760-222416031
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/47/s8/2/K/_/k/Z/K_kZz.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=73196032-73221975

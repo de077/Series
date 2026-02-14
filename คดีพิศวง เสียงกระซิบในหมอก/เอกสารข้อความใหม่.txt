@@ -1,0 +1,15 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="000000000000000000000000"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="000000000000000000000000"
+
+#EXT-X-STREAM-INF:BANDWIDTH=4103000,RESOLUTION=1920x808,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/17/s8/2/-/d/R/s/-dRsz.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1026642944-1026663117
+
+# ความละเอียด 720p
+#EXT-X-STREAM-INF:BANDWIDTH=2130000,RESOLUTION=1280x540,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/17/s8/2/-/d/R/s/-dRsz.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=533071872-533091997
+
+# ความละเอียด 480p
+#EXT-X-STREAM-INF:BANDWIDTH=1050000,RESOLUTION=854x360,AUDIO="main-audio"
+https://1a-1791.com/video/fww1/17/s8/2/-/d/R/s/-dRsz.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=262780416-262800465
