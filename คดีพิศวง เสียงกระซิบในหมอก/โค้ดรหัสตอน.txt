@@ -23,9 +23,9 @@
 22   73len0   https://1a-1791.com/video/fwe2/80/s8/2/K/1/P/Z/K1PZz.aaa.mp4
 23   73mqpq   https://1a-1791.com/video/fww1/f0/s8/2/g/d/5/Z/gd5Zz.aaa.mp4
 24   73mqq4   https://1a-1791.com/video/fww1/53/s8/2/u/d/5/Z/ud5Zz.aaa.mp4
-25   
-26   
-27   
+25   73rd8u   https://1a-1791.com/video/fwe2/80/s8/2/w/V/T/0/wVT0z.aaa.mp4
+26   73rdae   https://1a-1791.com/video/fwe2/13/s8/2/o/W/T/0/oWT0z.aaa.mp4
+27   73rdb2   https://1a-1791.com/video/fwe2/89/s8/2/M/W/T/0/MWT0z.aaa.mp4
 28   
 29   
 30   
@@ -59,9 +59,9 @@ SUB
 22   https://1a-1791.com/video/fwe2/80/s8/11/K/1/P/Z/K1PZz.ND04jb.vtt
 23   https://1a-1791.com/video/fww1/f0/s8/11/g/d/5/Z/gd5Zz.ND04jb.vtt
 24   https://1a-1791.com/video/fww1/53/s8/11/u/d/5/Z/ud5Zz.ND04jb.vtt
-25   
-26   
-27   
+25   https://1a-1791.com/video/fwe2/80/s8/11/w/V/T/0/wVT0z.ND04jb.vtt
+26   https://1a-1791.com/video/fwe2/13/s8/11/o/W/T/0/oWT0z.ND04jb.vtt
+27   https://1a-1791.com/video/fwe2/89/s8/11/M/W/T/0/MWT0z.ND04jb.vtt
 28   
 29   
 30   
@@ -105,3 +105,4 @@ END
 33   
 34   
 END
+
