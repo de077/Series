@@ -1,6 +1,6 @@
 #EXTM3U
 #EXT-X-VERSION:3
-# EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="000000000000000000000000"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Thai",LANGUAGE="th",DEFAULT=YES,AUTOSELECT=YES,URI="https://1a-1791.com/video/fww1/76/s8/2/s/-/V/1/s-V1z.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=57338368-57351091"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="main-audio",NAME="Chinese",LANGUAGE="zh",DEFAULT=NO,AUTOSELECT=YES,URI="https://1a-1791.com/video/fwe2/f7/s8/2/2/1/n/1/21n1z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=385317888-385347263"
 
 #EXT-X-STREAM-INF:BANDWIDTH=4099000,RESOLUTION=1920x804,AUDIO="main-audio"
