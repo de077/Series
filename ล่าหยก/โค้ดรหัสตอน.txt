@@ -19,9 +19,9 @@
 74xxxg   https://1a-1791.com/video/fwe2/c1/s8/2/m/S/s/8/mSs8z.aaa.mp4
 74xxy4   https://1a-1791.com/video/fww1/96/s8/2/K/S/s/8/KSs8z.aaa.mp4
 74xy7i   https://1a-1791.com/video/fwe2/06/s8/2/2/X/s/8/2Xs8z.aaa.mp4
-
-
-
+74yx76   https://1a-1791.com/video/fwe2/30/s8/2/A/2/D/8/A2D8z.Faa.mp4
+74yx4e   https://1a-1791.com/video/fww1/a2/s8/2/2/0/D/8/20D8z.Faa.mp4
+7506b4   https://1a-1791.com/video/fwe2/7a/s8/2/4/h/S/8/4hS8z.Faa.mp4
 
 
 
@@ -61,9 +61,9 @@ END
 19   https://1a-1791.com/video/fwe2/97/s8/2/o/N/s/8/oNs8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=114257920-114283537
 20   https://1a-1791.com/video/fwe2/01/s8/2/I/O/s/8/IOs8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=115249664-115275481
 21   https://1a-1791.com/video/fwe2/5a/s8/2/q/P/s/8/qPs8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=118030336-118056754
-22   
-23   
-24   
+22   https://1a-1791.com/video/fww1/ad/s8/2/i/g/D/8/igD8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=127001600-127030120
+23   https://1a-1791.com/video/fwe2/e0/s8/2/-/f/D/8/-fD8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=121181184-121208402
+24   https://1a-1791.com/video/fww1/2f/s8/2/-/8/R/8/-8R8z.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=117923840-117950258
 25   
 26   
 27   
