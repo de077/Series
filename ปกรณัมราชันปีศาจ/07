@@ -1,8 +1,9 @@
-  #EXTM3U
+#EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-ALLOW-CACHE:YES
 #EXT-X-TARGETDURATION:4
 #EXT-X-MEDIA-SEQUENCE:0
+# https://ok-hd.com/files/c05387584ebf9414e93ae2394f51de65/1080/index
 #EXTINF:3.080000,
 https://p16-ad-site-sign-sg.tiktokcdn.com/ad-site-i18n-sg/202512285d0d16fa372d7aa547dc8690~tplv-d5opwmad15-ttam-origin.image?lk3s=6d71dd51&x-expires=1798490393&x-signature=runabI7KAm%2F%2BBaeMVf0uSJiBmIU%3D
 #EXTINF:2.000000,
