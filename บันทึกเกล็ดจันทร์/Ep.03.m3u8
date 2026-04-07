@@ -3,7 +3,7 @@
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Thai",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fwe2/3f/s8/2/S/O/U/c/SOUcA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=185497088-185526531"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Chinese",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fww1/8b/s8/2/K/v/T/c/KvTcA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=400963072-400992568"
 
-#EXT-X-STREAM-INF:BANDWIDTH=6412000,RESOLUTION=2560x1072,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
+#EXT-X-STREAM-INF:BANDWIDTH=6412000,RESOLUTION=2560x1072,CODECS="avc1.640032,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
 https://1a-1791.com/video/fww1/8b/s8/2/K/v/T/c/KvTcA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2358353408-2358383389
 #EXT-X-STREAM-INF:BANDWIDTH=4139000,RESOLUTION=1920x804,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=60.000,AUDIO="audio"
 https://1a-1791.com/video/fww1/8b/s8/2/K/v/T/c/KvTcA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1522286080-1522315902
