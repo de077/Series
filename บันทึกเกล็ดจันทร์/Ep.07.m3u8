@@ -1,5 +1,4 @@
 #EXTM3U
-#EXT-X-VERSION:6
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Thai",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.technicalcatalog.site/v4/ty/wrpuw/index-f1-a1.txt"
 #EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="Chinese",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.technicalcatalog.site/v4/ty/wrpuw/index-f1-a2.txt"
 
