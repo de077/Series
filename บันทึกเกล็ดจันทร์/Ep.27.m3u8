@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:6
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="��",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.inovarelab.online/v4/n8l/3pgzt/index-f1-a1.txt"
-#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="�չ",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.inovarelab.online/v4/n8l/3pgzt/index-f1-a2.txt"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="ไทย",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.inovarelab.online/v4/n8l/3pgzt/index-f1-a1.txt"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio0",NAME="จีน",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="//s9m.inovarelab.online/v4/n8l/3pgzt/index-f1-a2.txt"
 
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=900238,RESOLUTION=1280x536,FRAME-RATE=24.000,CODECS="avc1.64001f,mp4a.40.2",VIDEO-RANGE=SDR,AUDIO="audio0"
 //s9m.inovarelab.online/v4/n8l/3pgzt/index-f1-v1.txt
