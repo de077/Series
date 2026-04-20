@@ -1,3 +1,13 @@
 #EXTM3U
-#EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=5000000,RESOLUTION=1920x808,CODECS="avc1.64001e,mp4a.40.2",AUDIO="audio0"
-https://ok-hd.com/files/9c80c282b26f9f8958506d62e7d4b0ac/1080/index
+#EXT-X-VERSION:3
+#EXT-X-ALLOW-CACHE:YES
+#EXT-X-STREAM-INF:BANDWIDTH=4101000,RESOLUTION=1920x804
+https://1a-1791.com/video/fww1/47/s8/2/S/n/t/b/SntbA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1486562816-1486592099
+#EXT-X-STREAM-INF:BANDWIDTH=2138000,RESOLUTION=1280x536
+https://1a-1791.com/video/fww1/47/s8/2/S/n/t/b/SntbA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=775168512-775197566
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x358
+https://1a-1791.com/video/fww1/47/s8/2/S/n/t/b/SntbA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=381192704-381221675
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x268
+https://1a-1791.com/video/fww1/47/s8/2/S/n/t/b/SntbA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=244838400-244867274
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x268
+https://1a-1791.com/video/fww1/47/s8/2/S/n/t/b/SntbA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=80697344-80725847
