@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+# EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Thai",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="000000"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Chinese",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343557120-343583265"
+
+# EXT-X-STREAM-INF:BANDWIDTH=6371000,RESOLUTION=2560x1088,CODECS="avc1.640032,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+# https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=2081255936-2081282498
+#EXT-X-STREAM-INF:BANDWIDTH=4107000,RESOLUTION=1920x816,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1341578240-1341604645
+#EXT-X-STREAM-INF:BANDWIDTH=2137000,RESOLUTION=1280x544,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=698209792-698236028
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x364,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=343557120-343583265
+#EXT-X-STREAM-INF:BANDWIDTH=675000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=220709376-220735435
+#EXT-X-STREAM-INF:BANDWIDTH=222000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fww1/e1/s8/2/4/J/K/g/4JKgA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=72803328-72828967

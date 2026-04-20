@@ -1,0 +1,17 @@
+﻿#EXTM3U
+#EXT-X-VERSION:3
+# EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Thai",LANGUAGE="th",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="0000000"
+#EXT-X-MEDIA:TYPE=AUDIO,GROUP-ID="audio",NAME="Chinese",LANGUAGE="zh",AUTOSELECT=NO,DEFAULT=NO,CHANNELS="2",URI="https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329862144-329887197"
+
+# EXT-X-STREAM-INF:BANDWIDTH=6372000,RESOLUTION=2560x1088,CODECS="avc1.640032,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+# https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.iaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1999692800-1999718242
+#EXT-X-STREAM-INF:BANDWIDTH=4097000,RESOLUTION=1920x816,CODECS="avc1.640028,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.haa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=1285731328-1285756625
+#EXT-X-STREAM-INF:BANDWIDTH=2134000,RESOLUTION=1280x544,CODECS="avc1.64001f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.gaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=669788672-669813817
+#EXT-X-STREAM-INF:BANDWIDTH=1051000,RESOLUTION=854x364,CODECS="avc1.4d401f,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.caa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=329862144-329887197
+#EXT-X-STREAM-INF:BANDWIDTH=674000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.baa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=211606016-211630975
+#EXT-X-STREAM-INF:BANDWIDTH=223000,RESOLUTION=640x272,CODECS="avc1.4d401e,mp4a.40.2",FRAME-RATE=25.000,AUDIO="audio"
+https://1a-1791.com/video/fwe2/bf/s8/2/U/L/I/g/ULIgA.oaa.tar?r_file=chunklist.m3u8&r_type=application%2Fvnd.apple.mpegurl&r_range=69985280-70009926
